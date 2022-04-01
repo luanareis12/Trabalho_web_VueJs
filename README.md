@@ -8,13 +8,15 @@ Para este projeto, primeiramente é necessário a instalação do VS Code e do N
 
 ![](img/img1.png) 
 
+E para baixar o Node.JS basta acessar o site: https://nodejs.org/en/  e fazer o download. 
+
 ![](img/img2.png)
 
 ![](img/img3.png) 
 
 ![](img/img4.png) 
 
-![](img/img5.png) 
+``` npm install -g @vue/cli ou yarn global add @vue/cli ```
 
 ![](img/img6.png)
 
