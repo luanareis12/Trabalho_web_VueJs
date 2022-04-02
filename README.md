@@ -21,9 +21,7 @@ Também será necessário o NPM (ou Yearn). Acesse o [link](https://cli.vuejs.or
 ![](img/img4.png) 
 
 
-Para instalar o novo pacote, use um dos comandos a seguir. Você precisa de privilégios de administrador para executá-los, a menos que o 
-
-npm tenha sido instalado em seu sistema por meio de um gerenciador de versões do Node.js (por exemplo, n ou nvm).
+Para instalar o novo pacote, use um dos comandos a seguir. Você precisa de privilégios de administrador para executá-los, a menos que o npm tenha sido instalado em seu sistema por meio de um gerenciador de versões do Node.js (por exemplo, n ou nvm).
 
 
 ``` npm install -g @vue/cli ou yarn global add @vue/cli ```
@@ -104,6 +102,10 @@ E aqui será definido o estilo dos conversores.
 
 ![](img/img23.png) 
 
+Agora você pode acessar o link (http://localhost:8080/) para visualizar e testar o conversor de moedas.
+
 ![](img/img24.png) 
+
+**Resultados:
 
 ![](img/img25.png) 
