@@ -1,9 +1,8 @@
-# Trabalho_web_VueJs
+# **Criando um conversor de moedas com Vue JS**
+
 Trabalho feito para disciplina de Desenvolvimento Web sobre o framework Vue JS - Implementação de um conversor de moedas
 
-Integrantes do grupo: Jairo Pedro, Luana Teixeira e Matheus Souza.
-
-**Criando um conversor de moedas com Vue JS**
+**Integrantes do grupo:** Jairo Pedro, Luana Teixeira e Matheus Souza.
 
 Para este projeto, primeiramente é necessário a instalação do VS Code e do Node js em sua máquina. Para baixar e instalar o VS Code basta acessar o 
 [site](https://code.visualstudio.com/download) e selecionar a opção de acordo o SO de sua máquina.
@@ -44,13 +43,21 @@ Criando o projeto Conversor: Abra o prompt de comando do seu computador e digite
 
 ![](img/img9.png)
 
-Aparecerá esta tela, na qual você irá escolher primeira opção default e pressionar a tecla "ENTER":
+Aparecerá esta tela, na qual você irá escolher primeira opção default e pressionar a tecla **"ENTER"**:
 
 ![](img/img10.png)
 
 Assim será feita a instalação, logo em seguida execute os seguintes comandos para que sua aplicação seja servida: 
 
-Primeiro digite o comando: “cd conversor” e pressione a tecla “Enter”, logo após digite o segundo comando: ```npm run serve``` e pressione a tecla “ENTER” novamente.
+Primeiro digite o comando: 
+
+``` cd conversor ```
+
+e pressione a tecla **"ENTER"**, logo após digite o segundo comando:
+
+``` npm run serve ``` 
+
+e pressione a tecla **"ENTER"** novamente.
 
 ![](img/img11.png)
 
@@ -62,7 +69,9 @@ E aparecerá a seguinte tela padrão:
 
 ![](img/img13.png)
 
-Depois você pode encerrar o projeto digitando “S” e abri-lo automaticamente no VS Code, para isso é necessário digitar o comando: ``` code . ```
+Depois você pode encerrar o projeto digitando **“S”** e abrí-lo automaticamente no VS Code, para isso é necessário digitar o comando: 
+
+``` code . ```
 
 ![](img/img14.png)
 
@@ -112,7 +121,7 @@ Agora você pode acessar o link (http://localhost:8080/) para visualizar e testa
 
 **Teste: Convertendo de dólar para real e vice-versa.**
 
-Basta digitar o valor que deseja e clicar em Converter.
+Basta digitar o valor que deseja e clicar em **Converter**.
 ![](img/img25.png) 
 
-Referência do código: Prgramador BR.Criando um conversor de moedas com VUE JS-S02E10.Data de acesso: 2 de abril de 2022. Disponível em: <https://youtu.be/tIEa3MRBpI0>
+**Referência do código:** Programador BR.Criando um conversor de moedas com VUE JS-S02E10.Data de acesso: 2 de abril de 2022. Disponível em: <https://youtu.be/tIEa3MRBpI0>.
