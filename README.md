@@ -5,7 +5,7 @@ Trabalho feito para disciplina de Desenvolvimento Web sobre o framework Vue JS -
 **Integrantes do grupo:** Jairo Pedro, Luana Teixeira e Matheus Souza.
 
 Para este projeto, primeiramente é necessário a instalação do VS Code e do Node js em sua máquina. Para baixar e instalar o VS Code basta acessar o 
-[site](https://code.visualstudio.com/download) e selecionar a opção de acordo o SO de sua máquina.
+[site](https://code.visualstudio.com/download) e selecionar a opção de acordo o Sistema Operacional de sua máquina
 
 ![](img/img1.png) 
 
