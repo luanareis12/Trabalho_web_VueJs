@@ -1,5 +1,7 @@
 # Trabalho_web_VueJs
-Trabalho de web sobre o framework Vue JS - Implementação de um conversor de moedas
+Trabalho feito para disciplina de Desenvolvimento Web sobre o framework Vue JS - Implementação de um conversor de moedas
+
+Integrantes do grupo: Jairo Pedro, Luana Teixeira e Matheus Souza.
 
 **Criando um conversor de moedas com Vue JS**
 
@@ -112,3 +114,5 @@ Agora você pode acessar o link (http://localhost:8080/) para visualizar e testa
 
 Basta digitar o valor que deseja e clicar em Converter.
 ![](img/img25.png) 
+
+Referência do código: Prgramador BR.Criando um conversor de moedas com VUE JS-S02E10.Data de acesso: 2 de abril de 2022. Disponível em: <https://youtu.be/tIEa3MRBpI0>
