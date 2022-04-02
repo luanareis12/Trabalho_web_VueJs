@@ -69,7 +69,7 @@ E aparecerá a seguinte tela padrão:
 
 ![](img/img13.png)
 
-Depois você pode encerrar o projeto digitando **“S”** e abrí-lo automaticamente no VS Code, para isso é necessário digitar o comando: 
+Depois você pode encerrar o projeto digitando **“S”** e abri-lo automaticamente no VS Code, para isso é necessário digitar o comando: 
 
 ``` code . ```
 
