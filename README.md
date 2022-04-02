@@ -104,11 +104,11 @@ E aqui será definido o estilo dos conversores.
 Agora você pode acessar o link (http://localhost:8080/) para visualizar e testar o conversor de moedas.
 
 ![](img/img23.png) 
-
 ![](img/img24.png) 
 
-**Teste:** Convertendo de dólar para real e vice-versa.
+
+
+**Teste: Convertendo de dólar para real e vice-versa.**
+
 Basta digitar o valor que deseja e clicar em Converter.
-
-
 ![](img/img25.png) 
